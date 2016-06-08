@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 from ImgDir.imgDown import downloadWebImg
 
 #last used on 8 June 2016
-#Note: the class used on website may change later(after 8 june).But if it doesnt ,it will work
+#Note: the class used on website may change later(after 8 june).But if it doesn't ,it will work
 
 
 def downloadWallpapers(oUrl):
